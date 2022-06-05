@@ -1,7 +1,6 @@
 import sys
 
 N = int(sys.stdin.readline())
-
 B = 0
 
 while N >= 0:
